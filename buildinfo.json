@@ -1,0 +1,15 @@
+{
+  "BuildEnvironment":"GitHub",
+  "Branch":"main",
+  "BuildNumber":"288",
+  "BuildUrl":"https://github.com/OctopusSolutionsEngineering/OctopusCopilot/actions/runs/14208749702",
+  "VcsType":"Git",
+  "VcsRoot":"https://github.com/OctopusSolutionsEngineering/OctopusCopilot",
+  "VcsCommitNumber":"64752356a0f1f4f97c2e8b55b5dcb0fb9c25c0ab",
+  "Commits":[
+      {
+         "Id":"64752356a0f1f4f97c2e8b55b5dcb0fb9c25c0ab",
+         "Comment":"DEMO-1 - test runbook with 0.15.0 of pipe"
+      }
+   ]
+}
